@@ -1,2 +1,12 @@
-# AirBnB_analysis
-Python script for my blogpost on text analysis of descriptions and reviews from AirBnB. 
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
+
+<a name="desc"></a>
+## 1. Description
+
+sometext
+
+<a name="usage"></a>
+## 2. Usage tips
+
+sometext
